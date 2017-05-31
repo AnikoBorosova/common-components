@@ -1,0 +1,1 @@
+Simple footer with navigation in a wrapper
