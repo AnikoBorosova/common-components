@@ -1,0 +1,1 @@
+Simple blog header with h1, h2 and img
