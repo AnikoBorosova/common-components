@@ -1,0 +1,1 @@
+Sticky footer created with absolute positioning
