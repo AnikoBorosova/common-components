@@ -1,0 +1,1 @@
+Fullscreen article header with display: table; solution
