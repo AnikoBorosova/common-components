@@ -1,1 +1,0 @@
-Simple top navigation containing an unordered list. Responsive - from vertical to horizontal - using media queries.
