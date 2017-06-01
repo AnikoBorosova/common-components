@@ -1,0 +1,1 @@
+Floated fixed top navigation. Responsive- from vertical to horizontal - using media queries.
